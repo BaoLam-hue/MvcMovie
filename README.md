@@ -1,1 +1,1 @@
-Getting started with MVC ASP.NET Core
+Getting restarted with MVC ASP.NET Core
